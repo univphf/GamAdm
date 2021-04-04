@@ -1,2 +1,2 @@
 # GamAdm
-GamADm demo application for HL7 Adt générating
+GamADm demo application for HL7 Adt generator
